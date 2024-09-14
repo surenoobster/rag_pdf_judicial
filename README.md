@@ -34,4 +34,4 @@ source ~/.bashrc
 ```
 
 
-![Screenshot from 2024-09-14 18-56-05](https://github.com/user-attachments/assets/186ec717-4a07-43ba-a29e-e68a8d6de0b4)
+
